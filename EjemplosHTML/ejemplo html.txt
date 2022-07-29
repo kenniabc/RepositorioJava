@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+        <!-- Head Section content -->
+<head>
+	<!-- Page title -->
+    	<title>Mi Primera Pagina HTML</title>
+</head>
+ 
+<!-- Body Section content -->
+<body>
+	<!-- Used to display heading content -->
+    	<h1>¡Bienvenidos!</h1>
+ 
+    	<!-- Used to display paragraph content -->
+    	<p>Esta es una pagina en HTML</p>
+</body>
+ </html>
